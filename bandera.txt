@@ -1,1 +1,2 @@
 # La bandera de Colombia tiene tres colores: amarillo, azul y rojo
+Esta es una modificación que hizo Luisa para el paso 7
